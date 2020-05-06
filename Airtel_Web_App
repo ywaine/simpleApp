@@ -1,0 +1,45 @@
+<main>
+  <h1>Check Airtel balance application</h1>
+<!--   Airtel check balance & OTT -->
+  <h2>Airtel<h2>
+    <h3>
+    <a href="tel:"+"*131#">Check Airtime</a>
+    </h3>
+  <h3>
+    <a href="tel:*175*4#">Check Data & OTT</a>
+    </h3>
+    <h3 id="load-ott"> <a href="tel:*185*2*5*2*1"> Load OTT (200/=)</a></h3>
+    <br>
+ <!--    MTN Check balance & OTT   -->
+<!--  <h2>MTN<h2>
+    <h3>
+    <a href="tel:"+"*131#">Check Airtime</a>
+    </h3>
+  <h3>
+    <a href="tel:*175*4#">Check Data & OTT</a>
+    </h3>
+    <h3 id="load-ott"> <a href="tel:*185*2*5*2*1"> Load OTT (200/=)</a></h3> -->
+
+<!--        <form action=loadOTT()>
+    <input type="text" placeholder="put your number here">
+      <button type="submit">enter</button>
+    </form> -->
+    
+   
+    <h4>Do you want a custom app built for you? <a href="tel:0756750996">Yep</a></h4>
+   <div>
+  
+       <h3>MTN <a href="tel:0756750996">coming soon</a></h3>
+    <h3>Internet Services <a href="tel:*175">coming soon</a></h3>
+<!--     <h4>*1 Top Packs</h4>
+    <p>*2 Data Bundles</p>
+    <p>*3 Data MyPakalast</p>
+    <p>*4 Volume Check</p>
+    <p>*5 Data Share</p>
+    <p>*6 Gift</p>
+    <p>*7 Internet Settings</p>
+    <p>*8 Roaming Data</p>
+    <p>*9 More</p>
+     <ul>...</ul> -->
+    </div>
+    </main>
