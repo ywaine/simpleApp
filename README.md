@@ -1,2 +1,4 @@
-# simpleApp
-An android application that allows me to load airtime fast. 
+# simpo or fluyd or dynamo
+An app that is designed to mirror the USSD interface. 
+
+ - Allows me to load bundles fast. 
